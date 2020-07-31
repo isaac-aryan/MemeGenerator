@@ -4,7 +4,7 @@ import speech_recognition as sr
 import random, textwrap
 
 url = 'meme.jpg'
-font_type = 'fonts/opensans.ttf'
+font_type = 'fonts/regime.ttf'
 placeholder = 'this text is a placeholder.'
 WIDTH = 0
 HEIGHT = 0
